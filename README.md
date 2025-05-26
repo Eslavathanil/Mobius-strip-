@@ -52,7 +52,7 @@ The core logic is encapsulated in a class-based structure for clarity and modula
 
 The `plot()` method renders the Möbius strip using a light-blue shaded surface:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Moebius_strip.jpg/320px-Moebius_strip.jpg" width="300" alt="Mobius Strip Example" />
+
 
 ---
 
